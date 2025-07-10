@@ -72,8 +72,8 @@ m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-t
 www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
 www.youtube.com##.ytp-button.ytp-next-button
 www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer
-!! Recommendations
-www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
+!! Recommendations (reddit saves the day, again https://www.reddit.com/r/uBlockOrigin/wiki/solutions/youtube/#wiki_suggested_videos)
+www.youtube.com##ytd-browse[page-subtype="home"]
 !! Explore & YouTube Apps
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
