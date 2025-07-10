@@ -80,7 +80,7 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 
 ! https://m.youtube.com
 !! Video sidebar recommendations
-m.youtube.com##.related-items-container
+m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"] > lazy-list > ytm-compact-video-renderer
 !! Search shorts
 m.youtube.com##.reel-shelf-items
 !! Homepage shorts
