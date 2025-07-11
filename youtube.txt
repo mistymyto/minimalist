@@ -96,9 +96,12 @@ m.youtube.com##[tab-identifier="FEwhat_to_watch"]
 !! Recommendations under video
 m.youtube.com##.related-items-container
 
-!! Search shorts
+!! Search Shorts
 m.youtube.com##.reel-shelf-items
 
-!! Skip video buttons
+!! Skip Video Buttons
 m.youtube.com##[aria-label="Next video"]
 m.youtube.com##[aria-label="Previous video"]
+
+!! Open App Buttons
+m.youtube.com##ytm-menu-item:has-text("Open App")
