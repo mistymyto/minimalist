@@ -69,8 +69,13 @@ m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-t
 
 !! Modified !!
 ! https://www.youtube.com
-www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
+!! Sidebar Recommendations (Excludes chat)
+www.youtube.com###related.style-scope.ytd-watch-flexy
+
+!! Next Button
 www.youtube.com##.ytp-button.ytp-next-button
+
+!! Autoplay Button
 www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer
 
 !! Recommendations (reddit saves the day, again https://www.reddit.com/r/uBlockOrigin/wiki/solutions/youtube/#wiki_suggested_videos)
