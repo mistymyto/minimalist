@@ -104,4 +104,3 @@ m.youtube.com##[aria-label="Next video"]
 m.youtube.com##[aria-label="Previous video"]
 
 !! Open App Buttons
-m.youtube.com##ytm-menu-item:has-text("Open App")
