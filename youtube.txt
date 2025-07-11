@@ -83,9 +83,5 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 youtube.com##.related-items-container
 !! Search shorts
 m.youtube.com##.reel-shelf-items
-!! Homepage shorts
-m.youtube.com##.rich-section-content
-!! Homepage recommendations
-m.youtube.com##.feed-item
-!! Homepage bar
-m.youtube.com##.chip-bar-contents
+!! Homepage Recommendations
+m.youtube.com##[tab-identifier="FEwhat_to_watch"]
