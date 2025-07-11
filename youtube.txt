@@ -90,11 +90,15 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##.ytp-endscreen-content
 
 ! https://m.youtube.com
+!! Homepage Recommendations
+m.youtube.com##[tab-identifier="FEwhat_to_watch"]
+
 !! Recommendations under video
 m.youtube.com##.related-items-container
 
 !! Search shorts
 m.youtube.com##.reel-shelf-items
 
-!! Homepage Recommendations
-m.youtube.com##[tab-identifier="FEwhat_to_watch"]
+!! Skip video buttons
+m.youtube.com##[aria-label="Next video"]
+m.youtube.com##[aria-label="Previous video"]
