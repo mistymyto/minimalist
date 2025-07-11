@@ -82,7 +82,7 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 
 ! https://m.youtube.com
 !! Recommendations under video
-youtube.com##.related-items-container
+m.youtube.com##.related-items-container
 
 !! Search shorts
 m.youtube.com##.reel-shelf-items
