@@ -96,9 +96,6 @@ m.youtube.com##[tab-identifier="FEwhat_to_watch"]
 !! Recommendations under video
 m.youtube.com##.related-items-container
 
-!! Search Shorts
-m.youtube.com##.reel-shelf-items
-
 !! Skip Video Buttons
 m.youtube.com##[aria-label="Next video"]
 m.youtube.com##[aria-label="Previous video"]
