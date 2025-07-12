@@ -1,4 +1,4 @@
-# MinimalList
+# MinimaList
 Cosmetic filter lists that eliminate content algorithms, recommendations, dark-patterns, short-form content, and other random junk you don't need nor want on the Internet.
 
 Only works within a browser (e.g.: firefox, brave, etc.).
