@@ -75,10 +75,6 @@ www.youtube.com###related.style-scope.ytd-watch-flexy
 !! Next Button
 www.youtube.com##.ytp-button.ytp-next-button
 
-!! Disables autoplay & hides button
-!www.youtube.com##+js(set-attr, div.ytp-autonav-toggle-button, aria-checked, false)
-!www.youtube.com##.ytp-button.ytp-autonav-toggle
-
 !! Recommendations (reddit saves the day, again https://www.reddit.com/r/uBlockOrigin/wiki/solutions/youtube/#wiki_suggested_videos)
 www.youtube.com##ytd-browse[page-subtype="home"]
 
@@ -88,6 +84,8 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 
 !! Endscreen
 www.youtube.com##.ytp-endscreen-content
+www.youtube.com##.ytp-button.ytp-endscreen-next
+www.youtube.com##.ytp-button.ytp-endscreen-previous
 
 ! https://m.youtube.com
 !! Homepage Recommendations
