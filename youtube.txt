@@ -36,6 +36,7 @@ www.youtube.com##ytd-reel-shelf-renderer:has(#title:has-text(/(^| )Shorts.?Remix
 
 ! Hide shorts category on search pages
 www.youtube.com##grid-shelf-view-model
+m.youtube.com##.reel-shelf-items
 
 !!! MOBILE !!!
 
@@ -97,5 +98,3 @@ m.youtube.com##.related-items-container
 !! Skip Video Buttons
 m.youtube.com##[aria-label="Next video"]
 m.youtube.com##[aria-label="Previous video"]
-
-!! Open App Buttons
