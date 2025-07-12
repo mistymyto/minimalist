@@ -36,18 +36,17 @@ www.youtube.com##ytd-reel-shelf-renderer:has(#title:has-text(/(^| )Shorts.?Remix
 
 ! Hide shorts category on search pages
 www.youtube.com##grid-shelf-view-model
-m.youtube.com##.reel-shelf-items
+www.youtube.com##yt-chip-cloud-chip-renderer.style-scope.yt-chip-cloud-renderer:nth-of-type(2)
 
 !!! MOBILE !!!
-
-! Hide all videos in home feed containing the phrase "#shorts"
-www.youtube.com##ytm-rich-item-renderer:has(#video-title:has-text(/(^| )#Shorts?( |$)/i))
-
 ! Hide all videos in subscription feed containing the phrase "#shorts"
 m.youtube.com##ytm-item-section-renderer:has(#video-title:has-text(/(^| )#Shorts?( |$)/i))
 
 ! Hide shorts button in the bottom navigation bar
 m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
+
+! Search Shorts
+m.youtube.com##.reel-shelf-items
 
 ! Hide all videos with the shorts indicator on the thumbnail
 m.youtube.com##ytm-video-with-context-renderer:has([data-style="SHORTS"])
