@@ -92,7 +92,7 @@ www.youtube.com##.ytp-button.ytp-endscreen-previous
 m.youtube.com##[tab-identifier="FEwhat_to_watch"]
 
 !! Recommendations under video
-m.youtube.com##.related-items-container
+m.youtube.com##[section-identifier="related-items"]
 
 !! Skip Video Buttons
 m.youtube.com##[aria-label="Next video"]
