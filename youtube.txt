@@ -97,3 +97,6 @@ m.youtube.com##[section-identifier="related-items"]
 !! Skip Video Buttons
 m.youtube.com##[aria-label="Next video"]
 m.youtube.com##[aria-label="Previous video"]
+
+!! Shorts
+m.youtube.com##grid-shelf-view-model.item.ytGridShelfViewModelHost
